@@ -1,0 +1,14 @@
+#search{
+   background-color:rgba(80, 80, 80, 0.233);
+   border: solid 2px rgb(86, 113, 235);
+   padding: .4rem;
+   margin-right: 1rem;
+   border-radius: .2rem;
+   -webkit-border-radius: .2rem;
+   -moz-border-radius: .2rem;
+   -ms-border-radius: .2rem;
+   -o-border-radius: .2rem;
+}
+#search::placeholder{
+   color: #fff;
+}
